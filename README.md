@@ -8,9 +8,13 @@
 
 ## 所需环境
 win10
+
 Torch：1.2.0
+
 Torch vision：0.4.0
+
 Python：3.7
+
 仅使用cpu处理图像
 ## 文件下载
 https://pan.baidu.com/s/1SRkTFguwStYgh0pcoRZ82A 提取码：zzmx
