@@ -13,7 +13,7 @@ Torch vision：0.4.0
 Python：3.7
 仅使用cpu处理图像
 ## 文件下载
-https://pan.baidu.com/s/1SRkTFguwStYgh0pcoRZ82A 提取码
+https://pan.baidu.com/s/1SRkTFguwStYgh0pcoRZ82A 提取码：zzmx
 其中，【faster-rcnn-pytorch-cpu.7z】【voc_weights_resnet.pth】【Anaconda3-2019.10-Windows-x86_64.exe】
 三个文件是教程文档用到的必须文件
 ## 预测步骤
